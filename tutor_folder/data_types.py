@@ -12,4 +12,4 @@ is_student = True
 
 print(name,age,height,is_student)
 
-# Okay in to]oday's class I learnt about data types and how to run codes in the command line interface
+# Okay in today's class I learnt about data types and how to run codes in the command line interface
