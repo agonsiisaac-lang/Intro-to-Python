@@ -1,0 +1,4 @@
+Hello, this is a sample text file.
+My name is isaac I am learning python programming.
+This is an additional line added to the file.
+This is an additional line added to the file.
