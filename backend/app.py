@@ -11,6 +11,14 @@ def home():
 def about():
     return 'This is a simple Flask application.'
 
+@app.route('/login')
+def login():
+    return 'Login page'
+
+@app.route('/contact')
+def contact():
+    return 'Contact us at 00089989'
+
 if __name__ == "__main__":
     app.run(debug=True)
 
